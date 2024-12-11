@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "W2UbF935pRaXX+v8OdVujF9+bSTWyEcrhUrjueOxtQQ=",
+  "Source": "lightbeam_api",
+  "BasePath": "_content/lightbeam_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lightbeam_api\\wwwroot",
+      "Source": "lightbeam_api",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\",
+      "BasePath": "_content/lightbeam_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\images\\2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg",
+      "SourceId": "lightbeam_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\",
+      "BasePath": "_content/lightbeam_api",
+      "RelativePath": "images/2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\images\\social-people.jpg",
+      "SourceId": "lightbeam_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\",
+      "BasePath": "_content/lightbeam_api",
+      "RelativePath": "images/social-people.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\social-people.jpg"
+    }
+  ]
+}

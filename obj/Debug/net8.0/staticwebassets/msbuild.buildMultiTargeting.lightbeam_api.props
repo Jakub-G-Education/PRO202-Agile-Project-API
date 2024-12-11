@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lightbeam_api.props" />
+</Project>

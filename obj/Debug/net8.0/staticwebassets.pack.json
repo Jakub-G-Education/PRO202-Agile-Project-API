@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\images\\2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg",
+      "PackagePath": "staticwebassets\\images\\2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\Github\\PRO202-Agile-Project-API\\wwwroot\\images\\social-people.jpg",
+      "PackagePath": "staticwebassets\\images\\social-people.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lightbeam_api.props",
+      "PackagePath": "build\\lightbeam_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lightbeam_api.props",
+      "PackagePath": "buildMultiTargeting\\lightbeam_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lightbeam_api.props",
+      "PackagePath": "buildTransitive\\lightbeam_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lightbeam_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
